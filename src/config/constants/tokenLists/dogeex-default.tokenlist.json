@@ -1,0 +1,102 @@
+{
+  "name": "DogeEX Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["doge", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "MiniDOGE",
+      "symbol": "MiniDOGE",
+      "address": "0xba07eed3d09055d60caef2bdfca1c05792f2dfad",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xba07eed3d09055d60caef2bdfca1c05792f2dfad.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+    },
+    {
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xc748673057861a797275cd8a068abb95a902e8de.png"
+    },
+    {
+      "name": "WIFEDOGE",
+      "symbol": "WIFEDOGE",
+      "address": "0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x07b36f2549291d320132712a1e64d3826b1fb4d7.png"
+    },
+    {
+      "name": "DogeCola",
+      "symbol": "DOGECOLA",
+      "address": "0xe320df552e78d57e95cf1182b6960746d5016561",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xe320df552e78d57e95cf1182b6960746d5016561.png"
+    },
+    {
+      "name": "MaskDoge Coin",
+      "symbol": "MASKDOGE",
+      "address": "0x18ff245c134d9daa6fed977617654490ba4da526",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x18ff245c134d9daa6fed977617654490ba4da526.png"
+    },
+    {
+      "name": "Daddy Doge",
+      "symbol": "DaddyDoge",
+      "address": "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92.png"
+    },
+    {
+      "name": "BitTorrent",
+      "symbol": "BTT",
+      "address": "0x8595f9da7b868b1822194faed312235e43007b49",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8595f9da7b868b1822194faed312235e43007b49.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "MDX Token",
+      "symbol": "MDX",
+      "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
+    }
+  ]
+}
